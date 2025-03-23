@@ -1,0 +1,14 @@
+text = "Nati, abel!"
+print(text.startswith("Nati")) 
+print(text.startswith("abel"))  
+
+text = "Python programming"
+print(text.startswith("Python", 0, 6))  
+print(text.startswith("programming", 7)) 
+print(text.startswith("Python", 7))
+
+
+
+text = "apple pie"
+print(text.startswith(("apple", "banana", "cherry"))) 
+print(text.startswith(("banana", "cherry"))) 
