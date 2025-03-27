@@ -25,3 +25,9 @@ method checks whether a string consists only of digits (0-9). If all characters 
 method checks whether a string consists only of alphanumeric characters (letters and/or digits). If all characters are letters (A-Z, a-z) or digits (0-9), it returns True; otherwise, it returns False.
 # str_isspace
 method checks whether a string consists only of whitespace characters (such as spaces, tabs, and newlines). If all characters are whitespace, it returns True; otherwise, it returns False.
+# str_format
+is a Python method used to format strings by inserting values into placeholders {} within a string. It allows for flexible and readable string formatting.
+# f_strings
+provide a more readable and efficient way to format strings compared to str.format().
+# str_encode
+method is used to encode a string into a bytes object using a specified encoding (default is 'utf-8'). This is useful for handling text data in different encodings, especially when working with files, network communication, or cryptography.
