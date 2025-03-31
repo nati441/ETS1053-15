@@ -13,3 +13,9 @@ method is used to delete the first occurrence of a specified value from a list.
  method creates a shallow copy of a list
  # list_count
  method returns the number of times a specified element appears in the list.
+ # list_extend
+ method adds all elements of an iterable (like another list, tuple, set, or string) to the end of the original list.
+# list_index
+method returns the index (position) of the first occurrence of a specified value in a list. If the value is not found, it raises a ValueError.
+# list_insert
+method allows you to add an element at a specific position in a list.
