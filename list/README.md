@@ -19,3 +19,8 @@ method is used to delete the first occurrence of a specified value from a list.
 method returns the index (position) of the first occurrence of a specified value in a list. If the value is not found, it raises a ValueError.
 # list_insert
 method allows you to add an element at a specific position in a list.
+# list_reverse
+is used to reverse the order of elements in a list in place (i.e., without creating a new list).
+# list_sort
+is used to arrange the elements of a list in ascending or descending order.
+
