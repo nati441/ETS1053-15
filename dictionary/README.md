@@ -13,3 +13,10 @@ It returns a view object containing key-value pairs as tuples.
 It gives you a view of all the keys in the dictionary.
 # dict pop
 It removes a key from the dictionary and returns its value
+# dict remove
+Removes the specified key and returns its value. Raises KeyError if the key is not found (unless a default is provided).
+
+# dict reverse
+ usually refers to reversing something (like reversing a list or swapping keys and values in a dictionary).
+ # dict sort
+ Sorting a dictionary means arranging its key-value pairs in a specific order — either by keys or by values — and returning the result as a new ordered dictionary or a list of sorted items.
