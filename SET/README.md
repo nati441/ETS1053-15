@@ -15,5 +15,11 @@ It modifies the original set directly and returns None.
  is used with sets to remove an element — but safely, without raising an error if the element is not found.
  # set intersection
  method (or & operator) returns a new set containing elements that are common to all sets involved.
-
-
+ # set intersection update
+ method to update a set with the intersection of itself and another set (or multiple sets). This method modifies the original set in place.
+# set is disjoint
+checks whether two sets have no elements in common
+# set issubset
+ is another handy method when working with sets. It checks whether all elements of one set are contained in another set.
+# set_isupperset
+checks if a set contains all elements of another set.
