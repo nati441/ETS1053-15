@@ -23,3 +23,13 @@ checks whether two sets have no elements in common
  is another handy method when working with sets. It checks whether all elements of one set are contained in another set.
 # set_isupperset
 checks if a set contains all elements of another set.
+# set pop 
+ removes and returns an arbitrary element from the set.
+ # set remove
+ fruits = {"apple", "banana", "cherry", "date"}
+
+# Pop an element
+Removes a specific element from the set.
+# set symetric difference
+is the set of elements that are in either of the sets, but not in both.
+
