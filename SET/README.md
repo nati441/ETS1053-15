@@ -33,3 +33,9 @@ Removes a specific element from the set.
 # set symetric difference
 is the set of elements that are in either of the sets, but not in both.
 
+# set symetric diffrence update
+is a set operation that updates a set by removing elements found in another set and adding elements that are not found in the original set. Essentially, it modifies the set to keep only elements that are unique to each set (i.e., not shared).
+# set union
+The set union operation in Python combines all elements from two (or more) sets, removing any duplicates. It's one of the most basic and useful set operations.
+# set update
+is used to add elements from another iterable (like a set, list, or tuple) to the original set. It’s like a union operation that modifies the original set in place.
